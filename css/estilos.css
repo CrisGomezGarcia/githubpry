@@ -1,7 +1,19 @@
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
 .tituloEjemplo {
-    color: tomato;
+    background-color: #fff999;
+    color: #000333;
+    text-align: center;
+    padding: 0.5rem;
+    /* margin-top: 10px; */
+    margin: 10px auto 40px auto;
+    border: 1px solid;
 }
 
 p {
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
 }
