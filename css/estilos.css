@@ -1,3 +1,7 @@
 .tituloEjemplo {
     color: tomato;
 }
+
+p {
+    font-family: sans-serif;
+}
